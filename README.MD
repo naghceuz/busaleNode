@@ -1,55 +1,11 @@
-
-注册： harvard.edu; 
-	  mit.edu;  
-	  bu.edu;  
-	  northereastern.edu
-
-解决什么问题：吃，住，行
-
-BUSALE想帮助住在波士顿大学附近的学生解决一下的问题：
-
-房
-1.很方便的的可以把你的房子租出去
-2.可以方便的租入房子
-3.会有专业的Agency在上面发布房源
-4.有个按键可以提出自己的需求，我们网站会有专人服务你
-
-书
-1.可以卖书
-2.可以买书
-
-车
-1.可以卖车
-2.可以买车
-
-其它
-1.烟 ＋ 酒 
+Website function:
+1.user need to register and login to do any actions (cannot even check without login; we will do strong PR to push the website; bring people's curiosity)
+2.user is able to post item
+3.user is able to comment under any posts, but only posters can see the comments
+4.if user wants to post an photo, he/she must uses Instagram's Hudson Filter
+5.user can like any post(the likes number will add to one more), and the more number of likes , the higher ranking the picture will display in the website, everyone can see the number of likes of the photo but only the number
 
 
-那我们网站有什么有特色的地方呢？
-A:学生
-B:有服务
-C:所有发帖必须使用Instagram里 Hudson的滤镜
-D:逻辑感非常强
-E:为了保护隐私，将不能互相访问卖家或者买家的信息，
-  一切都以内容为主
-F:一定要进入每个section的页面，才能发相关的东西
-  比如，如果想发根车有关的，那么一定要进入车的页面
-－－－－－－－－－－－－－－－－－－－－－－
-
-网站构架:
-
-index.html 
- -house
- 	- post a house
- 	- post a 
- -car
-    - post a car
-    - 
-
- -book
-
- -others
 
 
 
